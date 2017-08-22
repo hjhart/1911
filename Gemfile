@@ -12,7 +12,7 @@ gem "chronic"
 # Happy Jekylling!
 gem "jekyll"
 
-gem "minima"
+gem "soffes-blog-jekyll", github: 'hjhart/soffes-blog-jekyll', branch: 'master'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

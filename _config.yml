@@ -15,16 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 title: 1911 Eighteenth
 email: owner@1911eighteenth.pw
-description: > # this means to ignore newlines until "baseurl:"
-  Work to be done on our beautiful house!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://1911eighteenth.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: UA-103233648-1
+description: > # this means to ignore newlines until "baseurl:"
+  This is where I document my improvements.
+full_name: 1911 Eighteenth
+short_name: a house
+copyright_start_year: 2014
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: soffes-blog-jekyll
 plugins_dir:
   - jekyll-feed
 

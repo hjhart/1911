@@ -13,19 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Print, Idiot!
-email: james@printidiot.pw
+title: 1911 Eighteenth
+email: owner@1911eighteenth.pw
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I'm James. I happen to be a pretty big idiot when it comes to 3D printing things 
-  with my [Monoprice Maker Select v2](http://amzn.to/2uc9IWh). Join me as I learn a thing or two, and learn from my mistakes.
+  Work to be done on our beautiful house!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://printidiot.pw" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hjhart
-github_username:  hjhart
+url: "http://1911eighteenth.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_analytics: UA-103233648-1
-disqus:
-  shortname: print-idiot
 
 # Build settings
 markdown: kramdown

@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/hjhart/soffes-blog-jekyll.git
-  revision: 0529f01d1a0965f60a99846d0ddc28bbcb0bbf1b
+  revision: ac6b9e4cc6713b8f6eb83072cfc03561745fcb5d
   branch: master
   specs:
-    soffes-blog-jekyll (0.1.0)
+    soffes-blog-jekyll (0.2.0)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.1)
 
@@ -65,7 +65,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   rake
   soffes-blog-jekyll!
-  tzinfo-data
 
 BUNDLED WITH
    1.15.4
